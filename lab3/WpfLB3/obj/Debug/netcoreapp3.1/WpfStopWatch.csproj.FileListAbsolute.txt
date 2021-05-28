@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch_MarkupCompile.cache
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch.g.resources
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch.AssemblyInfo.cs
+C:\Users\David\Desktop\Lab3\WpfLB3\obj\Debug\netcoreapp3.1\WpfStopWatch.csproj.CoreCompileInputs.cache

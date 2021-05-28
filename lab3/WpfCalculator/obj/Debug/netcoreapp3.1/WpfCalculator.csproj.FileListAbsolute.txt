@@ -1,0 +1,36 @@
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.exe
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.deps.json
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.runtimeconfig.json
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.runtimeconfig.dev.json
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.dll
+C:\Users\David\Desktop\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.pdb
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator_MarkupCompile.cache
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.g.resources
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.AssemblyInfo.cs
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.dll
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.pdb
+C:\Users\David\Desktop\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.genruntimeconfig.cache
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.exe
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.deps.json
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.runtimeconfig.json
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.runtimeconfig.dev.json
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.dll
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\bin\Debug\netcoreapp3.1\WpfCalculator.pdb
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.csprojAssemblyReference.cache
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator_MarkupCompile.cache
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.g.resources
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.AssemblyInfoInputs.cache
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.AssemblyInfo.cs
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.csproj.CoreCompileInputs.cache
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.dll
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.pdb
+C:\Users\eiwoc\OneDrive\Рабочий стол\лабы\Lab3\WpfCalculator\obj\Debug\netcoreapp3.1\WpfCalculator.genruntimeconfig.cache

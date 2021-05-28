@@ -1,0 +1,30 @@
+﻿<Window x:Class="Task5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="900" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <local:ViewModel/>
+    </Window.DataContext>
+    <Border Margin="40" BorderBrush="Black" BorderThickness="1 " Background="AntiqueWhite" CornerRadius="50">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Left" Text="Исходный массив: " FontSize="15"/>
+                <TextBlock DockPanel.Dock="Right" Text="{Binding StringInputArray}" FontSize="15"/>
+            </DockPanel>
+            <TextBlock Text="Результат сортировки: " Margin="0 20 0 0" FontSize="15" VerticalAlignment="Center"/>
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Left" Text="По возрастанию: " FontSize="15"/>
+                <TextBlock DockPanel.Dock="Right" x:Name="OutArrayMinMax" Text="{Binding Path=StringOutMinMaxArray,UpdateSourceTrigger=PropertyChanged}" FontSize="15"/>
+            </DockPanel>
+            <DockPanel>
+                <TextBlock DockPanel.Dock="Left" Text="По убыванию:" FontSize="15"/>
+                <TextBlock DockPanel.Dock="Right" x:Name="OutArrayMaxMin" Text="{Binding Path=StringOutMaxMinArray,UpdateSourceTrigger=PropertyChanged}" FontSize="15"/>
+            </DockPanel>
+            <Button Content="Начать сортировку!" Margin="25" FontFamily="15" VerticalAlignment="Center" Cursor="Hand" Click="ButtonBase_OnClick"/>
+        </StackPanel>
+    </Border>
+</Window>
